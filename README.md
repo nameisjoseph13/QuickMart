@@ -26,12 +26,16 @@
 **API:** RESTful APIs built with Express and MongoDB
 
 ## Website
-**HomePage**
+
+### HomePage
+
 ![Screenshot of my website Home page](https://github.com/nameisjoseph13/QuickMart/blob/master/assets/Screenshot%20(148).png)
 
-**ShopPage**
+### ShopPage
+
 ![Screenshot of my website Home page](https://github.com/nameisjoseph13/QuickMart/blob/master/assets/Screenshot%20(149).png)
 
-**Admin Dashboard**
+### Admin Dashboard
+
 ![Screenshot of my website Home page](https://github.com/nameisjoseph13/QuickMart/blob/master/assets/Screenshot%20(150).png)
 
