@@ -19,11 +19,11 @@
 **Admin Authentication:** Secure login with enhanced privileges for managing the platform.
 
 ## Technologies Used
-**Frontend:** React, Redux, Material-UI
-**Backend:** Node.js, Express.js, MongoDB
-**Authentication:** JWT (JSON Web Tokens)
-**State Management:** Redux Toolkit
-**API:** RESTful APIs built with Express and MongoDB
+**Frontend:** React, Redux, Material-UI <br/>
+**Backend:** Node.js, Express.js, MongoDB <br/>
+**Authentication:** JWT (JSON Web Tokens) <br/>
+**State Management:** Redux Toolkit <br/>
+**API:** RESTful APIs built with Express and MongoDB <br/>
 
 ## Website
 
