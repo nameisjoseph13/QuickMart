@@ -6,17 +6,17 @@
 ## Key Features
 
 ## For Users:
-**Browse Products:** Easily navigate through a variety of products.
-**View Product Details:** Access detailed information, including product descriptions, prices, and availability.
-**Add to Cart & Purchase:** Add desired products to the cart and proceed to a secure checkout.
-**User Authentication:** Secure login and registration functionality with JWT-based authentication.
-**Order History:** View past orders and track current purchases.
+**Browse Products:** Easily navigate through a variety of products. <br/>
+**View Product Details:** Access detailed information, including product descriptions, prices, and availability. <br/>
+**Add to Cart & Purchase:** Add desired products to the cart and proceed to a secure checkout. <br/>
+**User Authentication:** Secure login and registration functionality with JWT-based authentication. <br/>
+**Order History:** View past orders and track current purchases. <br/>
 
 ## For Admins:
-**Product Management:** Upload, update, and delete products from the inventory.
-**View Earnings:** Monitor earnings and track the number of products purchased.
-**Order Management:** View all orders placed by users.
-**Admin Authentication:** Secure login with enhanced privileges for managing the platform.
+**Product Management:** Upload, update, and delete products from the inventory. <br/>
+**View Earnings:** Monitor earnings and track the number of products purchased. <br/>
+**Order Management:** View all orders placed by users. <br/>
+**Admin Authentication:** Secure login with enhanced privileges for managing the platform. <br/>
 
 ## Technologies Used
 **Frontend:** React, Redux, Material-UI <br/>
